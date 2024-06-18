@@ -11,7 +11,7 @@ a draw.
 ## What I Learned
 
 This project has been really beneficial because it is the first time I have 
-experiemented with implementing a simple AI in a program. Since the logic behind 
+experimented with implementing a simple AI in a program. Since the logic behind 
 Tic-Tac-Toe only allows for a limited number of possibilities, it proved to be a 
 good exercise in developing methods that would counter each of the user's moves. 
 Additionally, within this program I strived to create small methods broken up 
