@@ -6,7 +6,10 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
+ * @deprecated This is the familiarly asinine test that the Spring framework 
+ * makes, but I have seen no other evidence of Spring in this project.
  */
+@Deprecated
 public class AppTest 
     extends TestCase
 {
