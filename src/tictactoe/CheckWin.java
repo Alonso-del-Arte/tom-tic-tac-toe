@@ -1,4 +1,4 @@
-package te.TicTacToe;
+package tictactoe;
 
 public class CheckWin {
 	private static String marker = " O ";
