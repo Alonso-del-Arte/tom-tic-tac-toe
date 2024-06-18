@@ -18,3 +18,22 @@ Additionally, within this program I strived to create small methods broken up
 into various classes to create clean, readable code. I found myself going back a 
 number of times to refactor my code to keep any one class or method from 
 becoming too bulky.
+
+# Review by Alonso del Arte
+
+From what I can tell, Tom started this project on Eclipse with JUnit 3.8.1. I'll 
+be upgrading it at least to JUnit 4, if not JUnit 5. Also, the project, as I 
+found it, seems too tied up with Eclipse, so I'm trying to separate that 
+dependence so that it can be simply imported into whatever Java IDE you want to 
+use.
+
+Also, I'm moving the Git Ignore to the root level. Unlike Swift in Xcode, no 
+Java IDE requires the extra folder level just below the root level that this 
+project had. Though it could be that I've been putting the Git Ignore at the 
+wrong level in *my* Swift projects.
+
+The main branch was called "master," whereas the preference now is for "main." I 
+see this detail more as a marker of the project's age than anything else.
+
+I do believe the fundamentals of the project are sound and interesting, 
+otherwise it would not be worthwhile to undertake this review.
